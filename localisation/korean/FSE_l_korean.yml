@@ -1,0 +1,43 @@
+﻿l_korean:
+
+FSE: "슈퍼지구 연방"
+FSE_DEF: "슈퍼지구 연방"
+FSE_ADJ: "시민"
+
+FSE_democratic_council_char: "통제된 민주주의 평의회"
+
+FSE_arise_from_the_ashes: "잿더미에서 일어나다"
+FSE_arise_from_the_ashes_desc: ""
+FSE_saving_the_old_world: "구세계를 구원하다"
+FSE_saving_the_old_world_desc: ""
+FSE_across_the_atlantic: "대서양을 건너"
+FSE_across_the_atlantic_desc: ""
+FSE_look_to_the_east: "동쪽을 바라보다"
+FSE_look_to_the_east_desc: ""
+FSE_for_super_earth: "슈퍼지구를 위하여!"
+FSE_for_super_earth_desc: ""
+
+
+fse.1.t: "불길에 휩싸인 유럽"
+fse.1.d: "소위 '세계정부'는 유럽 대륙을 불길 속에 방치했다. 이제 통제된 민주주의와 자유의 이름으로 이 대륙, 나아가 이 행성을 해방할 때다!"
+fse.1.a: "내 리버-티 좀 맡아줘"
+
+fse.2.t: "통제된 민주주의의 부름"
+fse.2.d: "슈퍼지구를 위하여!"
+fse.2.a: "자유가 나를 구원하리라!"
+fse.2.b: "난 사양할게..."
+
+fse_news.1.t: "슈퍼지구 연방 탄생"
+fse_news.1.d: "최근 세계정부 붕괴 이후 번영시, 구 스톡홀름에서 송출된 충격적인 방송을 통해, 새로 구성된 진실부는 전 인류에게 자유와 번영, 안보를 가져다줄 \"통합 세계 권위\"인 슈퍼 지구 연방의 창설을 발표했다. 우렁찬 찬가와 흠잡을 데 없는 열병식, 그리고 \"구세계를 구원\"하겠다는 엄숙한 맹세 속에서, 새 정권은 통제되지 않은 민주주의의 시대가 끝났음을 선언했다.\n\n이것이 인류의 가장 위대한 시대의 여명인지, 아니면 훨씬 기묘한 무언가의 시작인지는 알 수 없다. 그러나 스웨덴 전역의 모든 화면에서는 하나의 메시지가 울려 퍼지고 있다.\n\n슈퍼 지구를 위하여!"
+fse_news.1.a: "오늘, 자유의 빛이 이 세계의 하늘을 다시 한 번 수놓으리라!"
+
+
+managed_democracy: "통제된 민주주의"
+managed_democracy_desc: "작업 중"
+
+prosperity_city: "번영시"
+
+
+FSE_federation_of_super_earth_formed_super: "슈퍼 지구 연방 탄생"
+FSE_federation_of_super_earth_formed_super_text: "\"역사의 올바른 편이 거둔 또 하나의 승리다\"\n- TrexGHZ"
+FSE_federation_of_super_earth_formed_super_button: "자유가 나를 구원하리라!"

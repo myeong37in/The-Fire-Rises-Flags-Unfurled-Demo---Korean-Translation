@@ -1,0 +1,121 @@
+﻿l_korean:
+
+ TNO_PEACE_POPUP_TITLE: "외교 알림"
+ TNO_PEACE_POPUP_DESCRIPTION: "[GetWarStatus]"
+ TNO_PEACE_POPUP_FLAVOR: "[GetFlavor]"
+
+ TNO_PEACE_POPUP_CLOSE: "닫기"
+
+ TNO_PEACE_POPUP_COUNTRY_PLURAL: " 및 그 동맹국이 "
+ TNO_PEACE_POPUP_COUNTRY_SINGULAR: " "
+
+ TNO_PEACE_POPUP_COUNTRY_PLURAL_HAS: " 및 그 동맹국이 "
+ TNO_PEACE_POPUP_COUNTRY_SINGULAR_HAS: ""
+
+ #TNO_PEACE_POPUP_WINNER_FACTION_LEADER: "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§!"
+ #TNO_PEACE_POPUP_WINNER_NOT_FACTION_LEADER: "As part of §Y[winning_country.GetFactionName]§!, [winning_country.GetFlag] §Y[winning_country.GetNameDef]§!, "
+#
+ #TNO_PEACE_POPUP_LOSER_FACTION_LEADER: "[losing_country.GetFlag] §Y[losing_country.GetNameDef]§!"
+ #TNO_PEACE_POPUP_LOSER_NOT_FACTION_LEADER: "[losing_country.GetFlag] §Y[losing_country.GetNameDef]§!, as part of §Y[losing_country.GetFactionName]§!,"
+
+ #Peace event/war loc
+ TFR_PEACE_POPUP_WAR_CONCLUSION: "[GetWarConclusionLoc]"
+ TNO_PEACE_POPUP_WAR_CONTINUING: "[GetWarContinuationLoc]"
+
+ #Wars that have finished
+
+ TNO_PEACE_POPUP_WAR_CONCLUSION_DEFAULT: "[winning_country.GetFlag] §Y[winning_country.GetNameDefCap]§! [GetWinnerAlliesWithHas] 측이 전쟁에서 [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! [GetLoserAllies] 측을 패배시켰습니다."
+ 
+ TFR_PEACE_POPUP_WAR_CONCLUSION_HRL_WIN: "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§! [GetWinnerAlliesWithHas] 측이 전쟁에서 [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! [GetLoserAllies] 측을 패배시켰습니다."
+ TFR_PEACE_POPUP_WAR_CONCLUSION_SYR_WIN: "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§! [GetWinnerAlliesWithHas] 측이 전쟁에서 [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! [GetLoserAllies] 측을 패배시켰습니다."
+ TFR_PEACE_POPUP_WAR_CONCLUSION_SER_WIN: "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§! [GetWinnerAlliesWithHas] 측이 전쟁에서 [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! [GetLoserAllies] 측을 패배시켰습니다."
+ TFR_PEACE_POPUP_WAR_CONCLUSION_ATW_FLA_WIN: "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§! [GetWinnerAlliesWithHas] 측이 전쟁에서 [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! [GetLoserAllies] 측을 패배시켰습니다."
+ TFR_PEACE_POPUP_WAR_CONCLUSION_APA_CLM_WIN: "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§! [GetWinnerAlliesWithHas] 측이 전쟁에서 [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! [GetLoserAllies] 측을 패배시켰습니다."
+ TFR_PEACE_POPUP_WAR_CONCLUSION_APA_CAL_WIN: "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§! [GetWinnerAlliesWithHas] 측이 전쟁에서 [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! [GetLoserAllies] 측을 패배시켰습니다."
+ TFR_PEACE_POPUP_WAR_CONCLUSION_PRC_CHI_WIN: "[winning_country.GetFlag] §Y[winning_country.GetNameDef]§! [GetWinnerAlliesWithHas] 측이 전쟁에서 [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! [GetLoserAllies] 측을 패배시켰습니다."
+ TFR_PEACE_POPUP_WAR_CONTINUING_DEFAULT: "계속되는 전쟁에서 [winning_country.GetFlag] §Y[winning_country.GetNameDef]§! 측이 [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! 측을 패배시켰습니다."
+
+ #Capitulation (war continuing) events
+ 
+ TFR_PEACE_POPUP_WAR_CONTINUING_DEFAULT: "계속되는 전쟁에서 [winning_country.GetFlag] §Y[winning_country.GetNameDef]§! 측이 [losing_country.GetFlag] §Y[losing_country.GetNameDef]§! 측을 패배시켰습니다."
+ 
+ #Flavor loc
+ 
+ TFR_PEACE_POPUP_FLAVOR_DEFAULT: "전리품은 승자의 몫입니다."
+
+ #Germany flavor
+ TFR_PEACE_POPUP_FLAVOR_GER_ZZZ: "강한 자들이 죄의 본질을 결정한다."
+ TFR_PEACE_POPUP_FLAVOR_ZZZ_GER: "\"하지만 난 그게 좋아. 왜냐하면 쓰디쓰니까.\n그리고 그게 내 마음이니까.\""
+ 
+ TFR_PEACE_POPUP_WAR_GER_WEF_WIN: "§Y클라우스 슈밥§!은 §Y인간§!을 관리하고 완전한 통제를 확립했습니다."
+ TFR_PEACE_POPUP_WAR_ZZZ_WEF_WIN: "§Y초세계주의자§!들은 §Y유럽§!이 혼란 속으로 빠져들면서 권력을 잃었습니다."
+ 
+ #Russia
+ TFR_PEACE_POPUP_FLAVOR_SYR_LOSE: "바샤르 왕가가 종말을 맞이했습니다."
+ TFR_PEACE_POPUP_FLAVOR_HTS: "수년 동안의 잔혹함이 마침내 끝났습니다... 알라! 시리아! 바샤르!"
+ TFR_PEACE_POPUP_FLAVOR_SER: "되찾은 생득권"
+ TFR_PEACE_POPUP_FLAVOR_APA_CLM: "캘리포니아 북부가 파시즘의 손아귀에서 해방되었습니다."
+ TFR_PEACE_POPUP_FLAVOR_APA_CAL: "캘리포니아 잔존 정부가 해산되었습니다..."
+ TFR_PEACE_POPUP_FLAVOR_ATW_FLA: "증오에게 그저 기회를 주어라..."
+ TFR_PEACE_POPUP_FLAVOR_PTF: "양으로 사는 것보다 사자로 사는 것이 낫다."
+ TFR_PEACE_POPUP_FLAVOR_APA: "혁명의 횃불이 발을 헛디뎠습니다..."
+ TFR_PEACE_POPUP_FLAVOR_USC: "\"난 절대 굴복하지 않을 것이다!\" 그는 소리쳤다. \"절대로!\"..."
+ TFR_PEACE_POPUP_FLAVOR_USB: "전쟁의 혹독한 불길 속에서, 기득권층이 설 자리는 없습니다."
+ TFR_PEACE_POPUP_FLAVOR_LOS: "남부가 또 함락되었습니다."
+ TFR_PEACE_POPUP_FLAVOR_BLA: "적어도 그들은 자유인으로 죽었습니다."
+ TFR_PEACE_POPUP_FLAVOR_APA_CAC: "캐스케이디아는 정상화되었습니다."
+ TFR_PEACE_POPUP_FLAVOR_HRL_EGY: "이집트의 악몽이 끝났습니다..."
+
+ #United Nations
+ TFR_PEACE_POPUP_FLAVOR_LRA_ATW: "증오의 장벽이 무너졌습니다... 포위전은 마침내 끝났습니다..."
+ TFR_PEACE_POPUP_FLAVOR_LRA_USB: "우리가 함께한다면 우리의 역량으로 해낼 수 없는 일은 없습니다. 함께합시다.\n바이든의 유엔 연설에서"
+
+ TFR_PEACE_POPUP_FLAVOR_ATW: "당신이 심연을 오랫동안 들여다본다면... 심연 또한 당신을 들여다볼 것이다..."
+ TFR_PEACE_POPUP_FLAVOR_NSM: "역사는 반복된다..."
+ TFR_PEACE_POPUP_FLAVOR_EGY_SUD: "댐에 한 발자국 더 다가갑니다..."
+ TFR_PEACE_POPUP_FLAVOR_SOV_POL: "수보로프의 이름 아래 우리는 돌아왔다."
+ TFR_PEACE_POPUP_FLAVOR_PRC_CHI: "반란 지방은 진압되었습니다."
+ TFR_PEACE_POPUP_FLAVOR_SYR_ISR: "...그리고 통치자 위에 성전이 내려오리니.\n(사사기 16:30)"
+ TFR_PEACE_POPUP_FLAVOR_TAL_AFG: "20년, 8개월, 4번의 행정부, 2,420개의 관, 19,950명의 아들들..."
+ TFR_PEACE_POPUP_FLAVOR_SOV_ENG: "그들은 그들의 섬을 그들의 대가로 지켰습니다..."
+ TFR_PEACE_POPUP_FLAVOR_SOL_WIN: "자유협회가 우세해집니다."
+ TFR_PEACE_POPUP_FLAVOR_GMA_WIN: "진정한 무정부주의 협회가 우세해집니다."
+ TFR_PEACE_POPUP_FLAVOR_GER_SOV: "곰이 길들여졌습니다..."
+ TFR_PEACE_POPUP_FLAVOR_FRA_SOV: "곰이 길들여졌습니다..."
+ TFR_PEACE_POPUP_FLAVOR_UKR_SOV: "곰이 길들여졌습니다..."
+ TFR_PEACE_POPUP_FLAVOR_ENG_SOV: "곰이 길들여졌습니다..."
+ TFR_PEACE_POPUP_FLAVOR_ITA_SOV: "곰이 길들여졌습니다..."
+ TFR_PEACE_POPUP_FLAVOR_GRE_SOV: "곰이 길들여졌습니다..."
+ TFR_PEACE_POPUP_FLAVOR_SWE_SOV: "곰이 길들여졌습니다..."
+ TFR_PEACE_POPUP_FLAVOR_FIN_SOV: "곰이 길들여졌습니다..."
+ TFR_PEACE_POPUP_FLAVOR_NOR_SOV: "곰이 길들여졌습니다..."
+ TFR_PEACE_POPUP_FLAVOR_DEN_SOV: "곰이 길들여졌습니다..."
+ TFR_PEACE_POPUP_FLAVOR_FAF_SOV: "곰이 길들여졌습니다..."
+ TFR_PEACE_POPUP_FLAVOR_GRK_SOV: "곰이 길들여졌습니다..."
+ TFR_PEACE_POPUP_FLAVOR_TUR_SOV: "곰이 길들여졌습니다..."
+ TFR_PEACE_POPUP_FLAVOR_SPR_SOV: "곰이 길들여졌습니다..."
+ TFR_PEACE_POPUP_FLAVOR_POR_SOV: "곰이 길들여졌습니다..."
+ TFR_PEACE_POPUP_FLAVOR_SNS_SOV: "곰이 길들여졌습니다..."
+ TFR_PEACE_POPUP_FLAVOR_PRS_SOV: "곰이 길들여졌습니다..."
+ TFR_PEACE_POPUP_FLAVOR_PRP_SOV: "곰이 길들여졌습니다..."
+ TFR_PEACE_POPUP_FLAVOR_GOD_SOV: "곰이 길들여졌습니다..."
+ TFR_PEACE_POPUP_FLAVOR_BEL_SOV: "곰이 길들여졌습니다..."
+ TFR_PEACE_POPUP_FLAVOR_HOL_SOV: "곰이 길들여졌습니다..."
+ TFR_PEACE_POPUP_FLAVOR_PLD_SOV: "곰이 길들여졌습니다..."
+ TFR_PEACE_POPUP_FLAVOR_MLD_SOV: "곰이 길들여졌습니다..."
+ 
+ TFR_PEACE_POPUP_WAR_HRL_WIN: "나를 사랑하지 않는 자는 살 자격이 없다. \n-무아마르 알 카다피"
+ TFR_PEACE_POPUP_WAR_LBA_WIN: "자유로운 리비아를 위해!"
+ 
+ TFR_PEACE_POPUP_FLAVOR_ABK: "진실이 왔고 거짓은 사라졌다. 거짓은 완전히 사라질 것이다.\n쿠란 (17:81)"
+
+
+
+ #PF
+ TFR_PEACE_POPUP_FLAVOR_PTF_SAT: "철의 전선은 파시즘을 다시 한번 막지 못했습니다."
+ TFR_PEACE_POPUP_FLAVOR_PTF_GMA: "파시스트를 부수는 데는 낫과 월급 이상의 것이 필요합니다."
+ TFR_PEACE_POPUP_FLAVOR_PTF_LCN: "신세계수도에 질서가 돌아왔습니다."
+ TFR_PEACE_POPUP_FLAVOR_PTF_ATP: "빨갱이들은 나이아가라처럼 추락했습니다."
+ TFR_PEACE_POPUP_FLAVOR_PTF_UOA: "기업독재는 무너졌습니다."
+ TFR_PEACE_POPUP_FLAVOR_PTF_USC: "혁명의 물결 속에서 반동분자가 설 자리는 없습니다."
+ TFR_PEACE_POPUP_FLAVOR_PTF_APA: "볼셰비키의 위협은 무너졌습니다."

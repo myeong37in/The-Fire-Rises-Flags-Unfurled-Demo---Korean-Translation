@@ -1,0 +1,55 @@
+﻿l_korean:
+ #Starting Name
+ LRA_UN: "플로리다 유엔 안정화 임무단"
+ LRA_UN_DEF: "플로리다 유엔 안정화 임무단"
+ LRA_UN_ADJ: "미국"
+
+ #Florida Unified Name
+ LRA_UNF: "유엔 관할 플로리다"
+ LRA_UNF_DEF: "유엔 관할 플로리다"
+ LRA_UNF_ADJ: "미국"
+
+ #Invoke Chapter 7 Name
+ LRA_UNAA: "유엔 관할 아메리카"
+ LRA_UNAA_DEF: "유엔 관할 아메리카"
+ LRA_UNAA_ADJ: "미국"
+
+ #Federation of SE Starting Name
+ FSE_SUPER: "슈퍼지구 연방"
+ FSE_SUPER_DEF: "슈퍼지구 연방"
+ FSE_SUPER_ADJ: "슈퍼 시민"
+
+ ##UNIFICATION NAMES/FLAGS##
+ #Amina Mohammed/Volker Turk
+ LRA_AMINA_TURK_AMERICA: "유엔 행정부"
+ LRA_AMINA_TURK_AMERICA_DEF: "유엔 행정부"
+ LRA_AMINA_TURK_AMERICA_ADJ: "미국"
+
+ LRA_AMERICA_COMMONWEALTH: "아메리카 연방"
+ LRA_AMERICA_COMMONWEALTH_DEF: "아메리카 연방"
+ LRA_AMERICA_COMMONWEALTH_ADJ: "미국"
+
+ #Achim Steiner/Jean-Pierre Lacroix
+ LRA_LACROIX_ACHIM: "아메리카 유엔"
+ LRA_LACROIX_ACHIM_DEF: "아메리카 유엔"
+ LRA_LACROIX_ACHIM_ADJ: "미국"
+
+ #Global Federal Republic
+ LRA_LACROIX_GLOBAL: "유엔"
+ LRA_LACROIX_GLOBAL_DEF: "유엔"
+ LRA_LACROIX_GLOBAL_ADJ: "미국"
+
+ #Alexandre Zouev/Daniel Prins
+ LRA_ZOUEV_PRINS_AMERICA: "유엔 과도행정부"
+ LRA_ZOUEV_PRINS_AMERICA_DEF: "유엔 과도행정부"
+ LRA_ZOUEV_PRINS_AMERICA_ADJ: "미국"
+
+ #Cindy McCain
+ LRA_MCCAIN_AMERICA: "미합중국"
+ LRA_MCCAIN_AMERICA_DEF: "미합중국"
+ LRA_MCCAIN_AMERICA_ADJ: "미국"
+
+ #Cheryl Pearce
+ LRA_PEARCE_AMERICA: "유엔 아메리카 임시군"
+ LRA_PEARCE_AMERICA_DEF: "유엔 아메리카 임시군"
+ LRA_PEARCE_AMERICA_ADJ: "미국"

@@ -1,3 +1,9 @@
 ﻿l_korean:
  USA_country_paths: "\n\n§Y국가 경로§!:\n- §3미연방정부§!\n- §C미입헌정부§!\n- §A미인민해방군§!\n- §P애국전선§!\n- §n국가사회주의 운동§!\n- §a아톰바펜 사단§!\n- §B플로리다 유엔 임무단§!"
  USA_country_other: "\n\n§Y조언과 요령:§!\n운명이 다가온다"
+
+ USA_side_with_resistance_tooltip: "§C바이든§!의 편에 설 것입니다, 정상으로 돌아가자!\n다음을 플레이할 수 있습니다.\n@USB §Y[USB.GetName] (바이든)§!\n- @APA §Y[APA.GetName]§!\n- @PTF §Y[PTF.GetName]§!\n- @NSM §Y[NSM.GetName]§!\n- @ATW §Y[ATW.GetName]§!\n- @UNN §Y$LRA_social_liberal$§!\n§Y$party_popularity_dynamic_modifier$§! 변동치는 $social_liberal_color_name$ 정당에 적용됩니다."
+ 
+ LRA_social_liberal: "플로리다 유엔 안정화 임무단"
+ LRA_social_liberal_DEF: "플로리다 유엔 안정화 임무단"
+ LRA_social_liberal_ADJ: "유엔"

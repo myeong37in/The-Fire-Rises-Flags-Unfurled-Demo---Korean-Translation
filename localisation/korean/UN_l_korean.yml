@@ -2,7 +2,6 @@
  ######################################################
  #STUFF BELONGING TO OTHER NATIONS
  ######################################################
- USA_side_with_resistance_tooltip: "정상으로의 복귀를 위해 §C바이든§!의 편에 서십시오!\n다음 세력으로 플레이할 수 있습니다: \n- @USB §Y[USB.GetName] (바이든)§!\n- @APA §Y[APA.GetName]§!\n- @PTF §Y[PTF.GetName]§!\n- @NSM §Y[NSM.GetName]§!\n- @ATW §Y[ATW.GetName]§!\n- @UNN §Y$LRA_social_liberal$§!\n§Y$party_popularity_dynamic_modifier$§! 변동치는 $social_liberal_color_name$ 정당에 대응됩니다"
  play_UN_tooltip: "§Y유엔§!\n---------------\n\n\n\n\n£GFX_LRA_path_banner\n\n\n\n\n\n§g인류 역사상 그 어느 때보다, 우리는 공동의 운명을 나누고 있습니다.\n\n태양이 아침을 맞이하고\n강물이 바다로 흘러가듯\n인류를 위한 새날이 밝아오니\n우리 아이들은 당당하고 자유롭게 살아가리라\n\n깃발을 펼친 유엔이 행진한다\n승리를 위해 함께 싸워라, 자유로운 신세계를 위하여!§!\n\n§R내전§!이 시작될 때, §Y유엔§!으로 플레이할 것입니다"
  usa.105.z: "더 나은 세계를 위하여!"
 
